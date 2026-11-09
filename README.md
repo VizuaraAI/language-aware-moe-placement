@@ -70,5 +70,5 @@ After these four, we move to real GPUs: a placement plugin for vLLM and latency 
 
 ## Data and licence
 
-The routing counts come from Qwen3-30B-A3B (Apache 2.0) run on Wikipedia text (CC BY-SA 4.0). The code is released
+The routing counts come from Qwen3-30B-A3B (Apache 2.0) run on Wikipedia text (CC BY-SA 3.0 and GFDL). The code is released
 under the MIT licence.
