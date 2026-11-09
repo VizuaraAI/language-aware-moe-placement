@@ -127,7 +127,7 @@ Sarvam's tokenizer averages 2.7 to 3.9 characters per token on Indic Wikipedia, 
 
 ## Cost
 
-Modal billed $9.51 against a plan of about $8.60 for three models and a hard stop of $13, with 2.00 H100 hours against a planned 1.65. Our own log estimated $9.11. The largest bills were the Qwen3 run ($6.53), the Sarvam run ($1.33) and the padding diagnostic ($0.94). A failed first Qwen3 smoke test cost $0.16, and two failed Sarvam starts cost about $0.01 each. Volume storage is not in this figure. Sarvam's weights and all text were deleted from the volume `irb08-exp02` after the results were copied here. Exp01's volume was mounted read only, and no apps are left running.
+Modal billed $9.51 against a plan of about $8.60 for three models, with 2.00 H100 hours against a planned 1.65. Our own log estimated $9.11. The largest bills were the Qwen3 run ($6.53), the Sarvam run ($1.33) and the padding diagnostic ($0.94). A failed first Qwen3 smoke test cost $0.16, and two failed Sarvam starts cost about $0.01 each. Volume storage is not in this figure. Sarvam's weights and all text were deleted from the volume `irb08-exp02` after the results were copied here. Exp01's volume was mounted read only, and no apps are left running.
 
 ## Files
 
